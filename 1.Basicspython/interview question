@@ -1,0 +1,81 @@
+Lesson : Interview Questions
+
+This document has been made after discussion with 100s of candidates, industry experts and looking after many interview portals. Roles and company name where the question was asked is also mentioned. Company names and Roles can be overlapping. Numbers after that is the importance level. 1 being the lowest importance and 3 being highest importance. Sometimes the roles and companies are not mentioned but still important.
+
+Intro to Python
+1. What are Python’s built-in data types?
+
+
+ 
+
+2. Why Python is used extensively in Data Science? 1
+
+
+ 
+
+3. Explain the difference between lists and tuples in Python.
+[Data Science, Data Analytics], [Amazon, Swiggy], 3
+
+
+ 
+
+4. What are Python’s predefined keywords and their uses?
+[Data Science], [TCS, Wipro], 2
+
+
+ 
+
+5. How does Python handle mutability and immutability?
+[Data Science, Data Analytics, Machine Learning Engineer], [Google, Zomato], 3
+
+
+ 
+
+6. What is the significance of mutability in Python data structures?
+[Data Science], [IBM], 3
+
+
+ 
+
+7. Explain different types of operators in Python (Arithmetic, Logical, etc.).
+[Data Analytics, Business Analyst], [Infosys, Cognizant], 2
+
+
+ 
+
+8. How do you perform type casting in Python? 1
+
+
+ 
+
+9. Explain the difference between implicit and explicit type casting in Python.
+[Machine Learning Engineer], [Accenture, HCL], 2
+
+
+ 
+
+10. What is the significance of conditionals in Python?
+[Business Analyst, Data Science], [Flipkart, Oracle], 2
+
+
+ 
+
+11. How would you implement a switch-case statement in Python?
+[Data Science, Machine Learning Engineer], [Capgemini], 1
+
+
+ 
+
+12. What are loops in Python? How do you differentiate between for and while loops?
+[Data Science, Data Analytics], [Google, Paytm], 3
+
+
+ 
+
+13. How do you use break, continue, and pass in Python loops?
+[Data Analytics, Machine Learning Engineer], [Byju’s, Capgemini], 2
+
+
+ 
+
+
