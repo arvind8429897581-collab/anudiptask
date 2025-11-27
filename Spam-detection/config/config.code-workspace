@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../flowchart"
+		},
+		{
+			"path": "../notebooks"
+		},
+		{
+			"path": "../src"
+		},
+		{
+			"path": "../static"
+		},
+		{
+			"path": "../templates"
+		}
+	]
+}

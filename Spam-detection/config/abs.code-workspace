@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Python/Spam-detection/config"
+		},
+		{
+			"path": "../../Python/Spam-detection/flowchart"
+		},
+		{
+			"path": "../../Python/Spam-detection/notebooks"
+		},
+		{
+			"path": "../../Python/Spam-detection/src"
+		},
+		{
+			"path": "../../Python/Spam-detection/static"
+		},
+		{
+			"path": "../../Python/Spam-detection/templates"
+		}
+	]
+}
